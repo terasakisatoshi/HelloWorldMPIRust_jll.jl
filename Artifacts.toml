@@ -1,0 +1,123 @@
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "2c26a90bdb537d30a44c3d4de83334a817505a23"
+mpi = "mpich"
+os = "macos"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "fdf5abe7a57be3408584606397a251d91bfc1ffd42282cb5187a4c2fa2b951b9"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "a53ebc6c2f66092a8de6e8907bcdae6e5a9d67bd"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "efcbff07f7ec0cd2c4a9858413a12209c83004a1e2ca63301cd492bb44c8d18c"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "ed1b7c0f8a760c4d049ce2276e332900ce0cc4e1"
+mpi = "openmpi"
+os = "macos"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "ca639c90539b7461e7b4f79fdab0ec259c929af22a6a6c49f11ad81645ee8d32"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "c82775c782bddb7546e245fa1961dee47f65dd8d"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "fa62c4efeb231db043693cc687526c6df6757d824e87252f745ce95f3f1a1cb3"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "95ae3845041acc08f0c5a717b46ddd5dd22d7fd0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "5f3ce46a21a455309df589812a0e43dbf96d15daacb97426c8eb2d3b265152b1"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "aarch64"
+git-tree-sha1 = "49cdda46be8858d33da093bf56318e23dccc3f85"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "1d4dcecb21e3a274c81f6b288220385d9e47e9e7f4968ae405eb3082b9157326"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "8042b0bbd01dc1a62c0ae8e1dc881173341985d2"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "94a8a82790144796267112c7f6f1d7d1a5918558455ee90f5288f2fde3f6bdf6"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "1f228b48938ac40c427177c55b970454d8aef708"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "483931e7bec8506c7e4bbbc3c6dbf84664ac8194ec85e1227b25926f8dd245a7"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "da9817461181b192b715999e6b551e349f09a6c5"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "e6e7777e1b31186060d074005817f86d745e1071c9af12c61ec193bde296da8a"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "90d07ca01090b1501497f279cb71226a142dec07"
+mpi = "mpich"
+os = "freebsd"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "ef68095bc4efcf426a4cf517fc70d273c8538cc68351544a11c9339d9e028ed7"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "e5681c052c62673f6101df61fe27e7f9b7f14c1e"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "958743e9234f8bea31ef0d4f3d9777a4c01b974c9f3c3c8353e60014a19600dc"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "3cf2e057fd75da67740502ecf674fbd1433177ec"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "8896898351dd8a14756868daac2843ba0c99972ced8a9adc2d6868872bc7949d"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[HelloWorldMPIRust]]
+arch = "x86_64"
+git-tree-sha1 = "7f834a7be57bd8a3a0bde7fc7b50adb4ea283bf7"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[HelloWorldMPIRust.download]]
+    sha256 = "197a23a17a6bba272a557929bd126d8944cc55e58b1939570f4fbbd62c40e88a"
+    url = "https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl/releases/download/HelloWorldMPIRust-v0.1.0+0/HelloWorldMPIRust.v0.1.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
